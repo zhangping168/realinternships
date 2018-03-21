@@ -15,6 +15,6 @@ class UploadResumeController extends Controller
 
     public function store(Request $request)
     {
-
+    	dd('dd');
     }
 }

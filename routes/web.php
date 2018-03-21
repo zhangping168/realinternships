@@ -63,3 +63,4 @@ Route::get('/posts/save/{id}','PostController@save');
 //upload resume
 
 Route::get('upload', 'UploadResumeController@index');
+Route::post('upload', 'UploadResumeController@store');

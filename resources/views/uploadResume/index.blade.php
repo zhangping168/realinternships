@@ -1,7 +1,11 @@
 @extends ('layouts.app')
 
 @section('content')
-
+@if(session()->has('message.level'))
+<div class="alert alert-{{session('message.level')}}">
+	{{ session('message.content') }}
+</div>
+@endif
 <div class="card">	
 	<h5 class="card-header">Upload Resume</h5>
 	<div class="card-body">

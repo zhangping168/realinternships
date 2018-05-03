@@ -2,11 +2,14 @@
         <nav class="nav d-flex justify-content-between">
           <a class="p-2 text-muted" href="/posts">Find Internships</a>
           <a class="p-2 text-muted" href="/upload">Upload Resume</a>
+         <!--
           <a class="p-2 text-muted" href="/whyisfree">Why Is Free</a>
           <a class="p-2 text-muted" href="/whatweoffer">What We Offer</a>
+      -->
           <a class="p-2 text-muted" href="/aboutus">About Us</a>
           <a class="p-2 text-muted" href="/contactus">Contact Us</a>
-          <a class="p-2 text-muted" href="/blog">Blog</a>
+         <!-- <a class="p-2 text-muted" href="/blog">Blog</a>-->
+      
 
         </nav>
 </div>

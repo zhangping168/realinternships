@@ -2,7 +2,7 @@
         <div class="row flex-nowrap justify-content-between align-items-center">
           
           <div class="col-8 text-center">
-            <a class="blog-header-logo text-dark" href="#">BETTER INTERNSHIPS</a>
+            <a class="blog-header-logo text-dark" href="/">BETTER INTERNSHIPS</a>
           </div>
 
           <div class="col-4 text-center">
